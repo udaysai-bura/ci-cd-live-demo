@@ -2,7 +2,7 @@ name: CI-CD Pipeline
 
 on:
   push:
-    branches: [ main ]    # runs when you push to main
+    branches: [ master ]    # runs when you push to main
 
 jobs:
 
